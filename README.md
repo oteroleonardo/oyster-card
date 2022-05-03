@@ -1,10 +1,10 @@
-# Services API
+# Oyster Card Problem
 
 ## Table of Contents
 
-- [Services API](#services-api)
+- [Oyster Card Problem](#oyster-card-problem)
   - [Table of Contents](#table-of-contents)
-  - [Oyster Card Problem](#oyster-card-problem)
+  - [Oyster Card Problem](#oyster-card-problem-1)
   - [Before run the code](#before-run-the-code)
   - [How to run the code](#how-to-run-the-code)
   - [Directory Structure](#directory-structure)
