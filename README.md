@@ -4,14 +4,14 @@
 
 - [Oyster Card Problem](#oyster-card-problem)
   - [Table of Contents](#table-of-contents)
-  - [Oyster Card Problem](#oyster-card-problem-1)
+  - [Oyster Card Project](#oyster-card-project)
   - [Before run the code](#before-run-the-code)
   - [How to run the code](#how-to-run-the-code)
   - [Directory Structure](#directory-structure)
   - [Development Best Practices](#development-best-practices)
   - [Node Scripts](#node-scripts)
 
-## Oyster Card Problem
+## Oyster Card Project
 
 The intention of this project is to solve the Oyster card problem technical test.
 
