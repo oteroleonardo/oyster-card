@@ -51,12 +51,10 @@ a .env file you can create one using the following command:
 ├── scripts
 │   └── ...                         # CI/CD and other utility scripts
 ├── src
-│   ├── __mocks__                   # Mocks for testing
 │   ├── constants                   # Constants used throughout the project
 │   ├── core                        # Classes related to core business logic
 │   ├── interfaces                  # Interfaces for describing objects
 │   ├── types                       # Types definitions
-│   └── env.ts                      # Environment setup file
 ├── .gitignore                      # Tells git which files to ignore
 ├── package.json                    # Package configuration. The list of 3rd party libraries and utilities
 ├── ava.config.unit.js              # AVA configuration file for unit tests
