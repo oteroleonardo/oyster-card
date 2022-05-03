@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "lib": [
+      "es2020",
+      "esnext.asynciterable",
+      "dom"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "outDir": "dist",
+    "removeComments": false,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "target": "es2019",
+    "paths": {
+      "@testhook/ava": [
+        "./test/ava"
+      ],
+      "*": [
+        "node_modules/*",
+      ],
+    }
+  },
+  "include": [
+    "src/**/*.ts"  
+  ],
+  "exclude": [
+    ".git",
+    "coverage",
+    "dist",
+    "node_modules/*",
+    "scripts",
+    "**/*.spec.ts",
+    "**/*.test.ts",
+    "**/*.ava.ts",
+    "**/__tests__/**/*"
+  ]
+}
