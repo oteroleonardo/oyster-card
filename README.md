@@ -7,7 +7,6 @@
   - [Oyster Card Problem](#oyster-card-problem)
   - [Before run the code](#before-run-the-code)
   - [How to run the code](#how-to-run-the-code)
-    - [Default environments](#default-environments)
   - [Directory Structure](#directory-structure)
   - [Development Best Practices](#development-best-practices)
   - [Node Scripts](#node-scripts)
@@ -33,15 +32,6 @@ This Project was created using TDD and AVA testing module. To run tests simple e
 
   ```bash
   yarn run test:ava
-  ```
-
-### Default environments
-
-Set your local environment variables in the .env file. If you do not have
-a .env file you can create one using the following command:
-
-  ```bash
-  cp .env.local .env
   ```
 
 ## Directory Structure
